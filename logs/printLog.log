@@ -1,0 +1,7 @@
+2018-11-06 16:45:46,107 INFO u.l.a.Sample [main] To get I Value from for loop
+2018-11-06 16:45:46,116 DEBUG u.l.a.Sample [main] Testing the Sample Value of I 
+2018-11-06 16:45:46,117 FATAL u.l.a.Sample [main] The Sample I value 
+2018-11-06 16:45:46,117 INFO u.l.a.Sample [main] The Sample Value is [I@18bf3d14
+2018-11-06 16:45:46,117 ERROR u.l.a.Sample [main] The Sample I value not printed
+2018-11-06 17:56:13,852 INFO u.l.l.SeleniumTest [main] Logging Info
+2018-11-06 17:56:13,869 DEBUG u.l.l.SeleniumTest [main] logging debug
