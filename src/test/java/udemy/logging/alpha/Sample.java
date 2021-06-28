@@ -27,6 +27,6 @@ public class Sample {
 			log.fatal("The Sample I value ");
 			log.info("The Sample Value is " + a);
 		}
-		log.error("The Sample I value not printed");
+		log.error("The Sample I value not printed! Lets Print Manually");
 	}
 }
