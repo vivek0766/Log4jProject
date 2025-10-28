@@ -1,4 +1,4 @@
-package udemy.logging.alpha;
+package udemy.logging.alphatest;
 
 import org.apache.logging.log4j.*;
 import org.testng.annotations.Test;
